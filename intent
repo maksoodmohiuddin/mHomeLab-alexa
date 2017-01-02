@@ -1,0 +1,58 @@
+{
+  "intents": [
+    {
+      "intent": "MyNameIsIntent",
+      "slots": [
+        {
+          "name": "Name",
+          "type": "LIST_OF_NAMES"
+        }
+      ]
+    },
+    {
+      "intent": "WhatsMyNameIntent"
+    },
+    {
+      "intent": "TeachEnglishAlphabet"
+    },
+    {
+      "intent": "TeachNumbers"
+    },
+    {
+      "intent": "TeachBanglaAlphabet"
+    },
+    {
+      "intent": "TeachBanglaNumbers"
+    },
+    {
+      "intent": "ExitApp"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+   }
+  ]
+}
+
+
+WhatsMyNameIntent what's my name
+WhatsMyNameIntent what is my name
+WhatsMyNameIntent my name
+WhatsMyNameIntent get my mame
+WhatsMyNameIntent give me my name
+WhatsMyNameIntent yes
+WhatsMyNameIntent yup
+WhatsMyNameIntent sure
+WhatsMyNameIntent yes please
+TeachEnglishAlphabet teach me english alphabet
+TeachEnglishAlphabet english alphabet
+TeachEnglishAlphabet teach me alphabet
+TeachEnglishAlphabet alphabet
+TeachNumbers teach me numbers
+TeachNumbers numbers
+TeachBanglaAlphabet teach me bangla alphabet
+TeachBanglaAlphabet bangla alphabet
+TeachBanglaNumbers teach me bangla numbers
+TeachBanglaNumbers bangla numbers
+ExitApp exit app
+ExitApp exit mohiuddinhome
+MyNameIsIntent my name is {Name}
